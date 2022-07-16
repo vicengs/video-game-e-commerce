@@ -4,7 +4,7 @@
 
 ## Description
   
-A Video Game e-commerce
+A platform to buy video games through an e-commerce.
 
 ## Built with
 
@@ -67,15 +67,15 @@ Made by:
 
 #### Github repository
 
-- https://github.com/vicengs/Video-Games-E-Commerce
+- https://github.com/vicengs/video-game-e-commerce
 
 #### SSH to clone:
 
-    git@github.com:vicengs/Video-Games-E-Commerce.git
+    git@github.com:vicengs/video-game-e-commerce.git
 
 #### Deployed
 
-- UPDATING.....
+- https://stark-tor-14116.herokuapp.com/
 
 ## License
 
@@ -83,6 +83,8 @@ MIT License - A short and simple permissive license with conditions only requiri
 
 ## Screenshots
     
-![Main](/client/src/assets/images/main.jpg)
+![Main](/client/src/images/main.jpg)
 
-![Login](/client/src/assets/images/login.jpg)
+![Login](/client/src/images/login.jpg)
+
+![Detail](/client/src/images/detail.jpg)
